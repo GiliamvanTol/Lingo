@@ -1,0 +1,26 @@
+.vierkant {
+	line-height: 80px;
+	border: 2px solid black;
+	display: inline-block;
+	height: 80px;
+	width: 80px;
+	text-align: center;
+	font-family: verdana;
+	font-size: 20px;
+	color: white;
+		
+}
+
+.staan {
+	line-height: 80px;
+	border: 2px solid black;
+	display: inline-block;
+	height: 80px;
+	width: 80px;
+	text-align: center;
+	font-family: verdana;
+	font-size: 20px;
+	color: white;
+	background: green;
+	margin-top: 0px;
+}
